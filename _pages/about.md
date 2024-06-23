@@ -19,15 +19,18 @@ redirect_from:
 
 (WEBSITE UNDER CONSTRUCTION)
 
-Hi I am a Data Science Undergraduate, Passionate about applying artificial intelligence to solve real-world problems across various domains. Experienced in presenting research at international conference workshops such as NeurIPS, ICLR, MICCAI, AAAI, CVPR, EMNLP, WACV, and ACL. Skilled in Machine Learning, Deep Learning, Computer Vision, Generative AI, Multimodal AI, and Trustworthy AI.
+Hi I am Pratinav, nice to e-meet you!
 
-Received honors, including the AAAI Undergraduate Consortium (AAAI-UC) Scholarship 2023 and MAHE Research Grant 2023.
+I am a recent Data Science undergraduate with a passion for applying artificial intelligence to solve real-world problems across various domains.
 
-I've worked at Mila on deep learning for geospatial applications, focusing on climate change. At Bosch, I researched on Diffusion Models for vision-based AI for autonomous driving. My internship at IIT Kharagpur involved medical imagery analysis. These experiences have fueled my passion for AI and solving real-world challenges.
+My journey includes working at Mila on deep learning for geospatial applications focused on climate change, researching Diffusion Models for vision-based AI at Bosch Research for autonomous driving, and analyzing medical imagery during my internship at IIT Kharagpur. These experiences have deepened my passion for AI and real-world problem-solving. 
+
+My research interests lie in Computer Vision, Natural Language Processing, and Applied AI, and I have published papers at top international AI conferences <a href='https://scholar.google.com/citations?user=DwBn1fcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+With experience presenting research at international conferences like NeurIPS, ICLR, MICCAI, AAAI, CVPR, EMNLP, WACV, and ACL, I have honed my skills in Machine Learning, Deep Learning, Computer Vision, Generative AI, Multimodal AI, and Trustworthy AI. 
+
+I have received honors such as the AAAI Undergraduate Consortium (AAAI-UC) Scholarship 2023 and the MAHE Research Grant 2023. 
 
 Eager to learn new technologies and collaborate on multidisciplinary projects. Feel free to reach out for collaborations.
-
-My research interest includes Computer Vision, Natural Language Processing and Applied AI. I have published some papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=DwBn1fcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 (PS : Open to Full-Time Role in Machine Learning, Data Science, and AI Research)
 
