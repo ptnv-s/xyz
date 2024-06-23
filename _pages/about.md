@@ -26,13 +26,14 @@ I am a recent Data Science undergraduate with a passion for applying artificial 
 My journey includes working at Mila on deep learning for geospatial applications focused on climate change, researching Diffusion Models for vision-based AI at Bosch Research for autonomous driving, and analyzing medical imagery during my internship at IIT Kharagpur. These experiences have deepened my passion for AI and real-world problem-solving. 
 
 My research interests lie in Computer Vision, Natural Language Processing, and Applied AI, and I have published papers at top international AI conferences <a href='https://scholar.google.com/citations?user=DwBn1fcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
 With experience presenting research at international conferences like NeurIPS, ICLR, MICCAI, AAAI, CVPR, EMNLP, WACV, and ACL, I have honed my skills in Machine Learning, Deep Learning, Computer Vision, Generative AI, Multimodal AI, and Trustworthy AI. 
 
 I have received honors such as the AAAI Undergraduate Consortium (AAAI-UC) Scholarship 2023 and the MAHE Research Grant 2023. 
 
 Eager to learn new technologies and collaborate on multidisciplinary projects. Feel free to reach out for collaborations.
 
-(PS : Open to Full-Time Role in Machine Learning, Data Science, and AI Research)
+(PS : Open to Full-Time Role in Machine Learning, Data Science, and AI Research and Research Colaboratorions)
 
 
 # 🔥 News
