@@ -38,7 +38,9 @@ Eager to learn new technologies and collaborate on multidisciplinary projects. F
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 AgriLLM accepted to KDD UC-24!
+- *2024.02*: &nbsp;🎉🎉 Sailing Through Spectra accepted to ICLR Tiny Papers!
 - *2024.01*: &nbsp;🎉🎉 Started my Internship (as a part of my Bachelor Thesis) at Mila Quebec AI Institute (Remotely).
+- *2023.12*: &nbsp;🎉🎉 Does the Fairness of Your Pre-Training Hold Up? accepted to WACV Pretrain Workshop as Oral!
 
 # 📝 Publications 
 
