@@ -17,42 +17,67 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+(WEBSITE UNDER CONSTRUCTION)
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi I am a Data Science Undergraduate, Passionate about applying artificial intelligence to solve real-world problems across various domains. Experienced in presenting research at international conference workshops such as NeurIPS, ICLR, MICCAI, AAAI, CVPR, EMNLP, WACV, and ACL. Skilled in Machine Learning, Deep Learning, Computer Vision, Generative AI, Multimodal AI, and Trustworthy AI.
+
+Received honors, including the AAAI Undergraduate Consortium (AAAI-UC) Scholarship 2023 and MAHE Research Grant 2023.
+
+I've worked at Mila on deep learning for geospatial applications, focusing on climate change. At Bosch, I researched on Diffusion Models for vision-based AI for autonomous driving. My internship at IIT Kharagpur involved medical imagery analysis. These experiences have fueled my passion for AI and solving real-world challenges.
+
+Eager to learn new technologies and collaborate on multidisciplinary projects. Feel free to reach out for collaborations.
+
+My research interest includes Computer Vision, Natural Language Processing and Applied AI. I have published some papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=DwBn1fcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+(PS : Open to Full-Time Role in Machine Learning, Data Science, and AI Research)
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 AgriLLM accepted to KDD UC-24!
+- *2024.01*: &nbsp;🎉🎉 Started my Internship (as a part of my Bachelor Thesis) at Mila Quebec AI Institute (Remotely).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CoReFusion: Contrastive Regularized Fusion for Guided Thermal Super-Resolution](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Kasliwal_CoReFusion_Contrastive_Regularized_Fusion_for_Guided_Thermal_Super-Resolution_CVPRW_2023_paper.html)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Aditya Kasliwal, **Pratinav Seth**, Sriya Rallabandi, Sanchit Singhal
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DwBn1fcAAAAJ&citation_for_view=DwBn1fcAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Evaluating Predictive Uncertainty and Robustness to Distributional Shift Using Real World Data](https://arxiv.org/abs/2111.04665), Kumud Lakara (†), Akshat Bhandari (†), **Pratinav Seth (†)**, Ujjwal Verma, **Bayesian Deep Learning Workshop, NeurIPS 2021.** [**Citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DwBn1fcAAAAJ&citation_for_view=DwBn1fcAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+- [SSS at SemEval-2023 Task 10: Explainable Detection of Online Sexism using Majority Voted Fine-Tuned Transformers](https://aclanthology.org/2023.semeval-1.171/), Sriya Rallabandi, Sanchit Singhal, **Pratinav Seth**, **Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), ACL 2023** [**Citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DwBn1fcAAAAJ&citation_for_view=DwBn1fcAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+# 💻 Past Experiences
+- *2024.01 - 2024.06*, [Research Intern, Mila Quebec AI Institute](https://github.com/), Remote.
+- *2021.03 - 2024.01*, [Researcher, Mars Rover Manipal](https://github.com/), Remote.
+- *2023.12 - 2024.01*, [Research Colaborator, with Dr. Amit Agarwal (Wells Fargo)](https://github.com/), Remote.
+- *2022.05 - 2023.12*, [Research Intern, KLIV IIT Kharagpur](https://github.com/), Remote.
+- *2023.06 - 2023.10*, [Computer Vision Research Intern (Student Trainee), Bosch Corporate Research](https://github.com/), Robert Bosch Research and Technology Center India, Bangalore, India.
+- *2023.04 - 2023.12*, [Research Assistant under Dr. Abhilash K. Pai, Dept. of DSCA, MIT MAHE](https://github.com/), Remote.
+- *2022.09 - 2023.09*, [Co-President & Mentor AI Research, Research Society MIT Manipal](https://github.com/), Remote.
+- *2022.11 - 2023.08*, [Co-founder & Head of Artificial Intelligence,  The Data Alchemists](https://github.com/), Remote.
+- *2022.10 - 2023.03*, [Research Colaborator, IIT Roorkee](https://github.com/), Remote.
+- *2022.06 - 2022.09*, [Research Assistant under Dr.Vidya Rao & Dr. Poornima P.K., Dept. of DSCA, MIT MAHE](https://github.com/), Remote.
+- *2022.03 - 2022.05*, [Machine Learning Intern, Eedge.ai](https://github.com/), Remote.
+- *2022.01 - 2022.02*, [Data Science (NLP) Intern, CUREYA](https://github.com/), Remote.
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.02* One of the 11 Undergraduates Selected as an AAAI Undergraduate Consortium Scholar. Included a Travel Grant of $2000 to present at AAAI-23 at Washington DC, USA.
+- *2023.01* Received MAHE Undergraduate Research Grant Worth 10K INR for Project : Explainable & Trustworthy Skin Lesion Classification under Dr. Abhilash K. Pai, Dept. of DSCA, Manipal Institute of Technology, MAHE.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.10 - 2024.07*, Bachelors of Technology in Data Science & Engineering (B.Tech), Manipal Academy of Higher Education, Manipal, Karnataka, India.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.03*, Introduction to Research, ACM-W Manipal .
+- *2024.02*, Data-Vista, TDA Manipal.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
