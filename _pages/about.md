@@ -134,7 +134,7 @@ Aditya Kasliwal, Aryan Kamani, Ishaan Gakhar, **Pratinav Seth**, Sriya Rallaband
 - *2020.10 - 2024.07*, Bachelors of Technology in Data Science & Engineering (B.Tech), Manipal Academy of Higher Education, Manipal, Karnataka, India.
 
 # 💬 Invited Talks
-- *2024.03*, Introduction to Research, ACM-W Manipal .
-- *2024.02*, Data-Vista, TDA Manipal.  \| [\[video\]](https://github.com/)
+- *2024.03*, Introduction to Research, at ACM-W Manipal Chapter.
+- *2024.02*, Data Dialogue invited by The Data Alchemists, The Official Data Science Club of MIT Manipal.  \| [\[link\]](https://www.instagram.com/p/C2B-pv7v82l/?igsh=OXd3d2J6YTh6aXVt)
 
 
